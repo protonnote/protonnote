@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <h3 align="left">My Github stat:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=protonnote&show_icons=true&locale=en" alt="protonnote" /></p>
-<p><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protonnote&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protonnote&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=protonnote&" alt="protonnote" /></p>
