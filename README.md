@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Naruson</h1>
-<h3 align="center">I’m computer engineer student</h3>
+<h3 align="center">I’m computer engineering student</h3>
 
-- 🌱 I’m currently learning **Machine learning,Backend, Cloud computing**
+- 🌱 I’m currently learning **Machine learning, Deep learning, Software engineer Backend, Docker**
 - 💻 I want to be backend developer.
 - 
 <h3 align="left">My Github stat:</h3>
