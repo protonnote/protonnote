@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">I’m computer engineering student</h3>
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Software engineer Backend, Docker**
-- 💻 I want to be backend developer.
-- 
+- 💻 I want to be backend developer or Machine learning Engineer.
+- work for PS5.
 <h3 align="left">My Github stat:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=protonnote&show_icons=true&locale=en" alt="protonnote" /></p>
